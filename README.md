@@ -24,3 +24,5 @@ RAND_CIPHER is a random encryption program. The program is based on three encryp
   - Main.c
   - Spritz.c
   - VMPC.c
+
+- Makefile
